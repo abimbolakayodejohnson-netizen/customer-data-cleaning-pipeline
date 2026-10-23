@@ -1,0 +1,7 @@
+customer_id,name,age,email,city,valid_age,valid_email,valid_name
+C001,Amina Yusuf,25.0,amina@example.com,Ibadan,True,True,True
+C002,Kunle Ade,34.0,kunle@gmail.com,Lagos,True,True,True
+C003,Chidi Okafor,-4.0,chidi.example.com,Ibadan,False,False,True
+C004,,150.0,,Abuja,False,False,False
+C005,Tobi Bello,,tobi@,Lagos,False,False,True
+C007,Sade Bello,42.0,sade@gmail.com,Ibadan,True,True,True
